@@ -7,3 +7,4 @@ Operations:
 - Subtraction
 - Multiplication
 - Division
+- Task 2: Matrix Operations Program in C
